@@ -19,7 +19,7 @@
 
 | Baseline | LightCache |
 |----------|------------|
-| ![](./plot/SVD_buildings_origin.gif) | ![](./plot/SVD_building_lightcache.gif) |
+| ![](./plot/SVD_buildings_origin.gif) | ![](./plot/SVD_buildings_lightcache.gif) |
 
 | Baseline | LightCache |
 |----------|------------|
